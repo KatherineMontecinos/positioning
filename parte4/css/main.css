@@ -1,0 +1,33 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+
+div {
+	width: 200px;
+	height: 200px;
+	
+
+}
+
+.pink {
+	background-color: #ee3e64;
+	position: relative;
+
+	
+}
+
+.blue {
+	background-color: #44accf;
+	position: relative;
+	top: ;
+	right: ;
+	left: 200px;
+	bottom: ;
+}
+
+.verde {
+	background-color: #b7d84b;
+	position: relative;
+	
+}

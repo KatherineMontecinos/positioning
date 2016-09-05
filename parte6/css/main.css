@@ -1,0 +1,37 @@
+body {
+	margin: 0;
+	padding: 0;
+}
+
+div {
+	width: 200px;
+	height: 200px;
+}
+
+.pink {
+	background-color: #ee3e64;
+	position: absolute;
+	top: 0;
+	left: 0;	
+}
+
+.blue {
+	background-color: #44accf;
+	position: absolute;
+	right: 0;
+	top: 0;
+}
+
+.verde {
+	background-color: #b7d84b;
+	position: absolute;
+	left: 0;
+	bottom: 0;	
+}
+
+.yellow {
+	background-color: yellow;
+	position: absolute;
+	right: 0;
+	bottom: 0;
+}
